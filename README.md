@@ -1,3 +1,8 @@
+```bash
+# 下载并运行
+bash <(wget -qO- https://github.com/dawnineyes/network-latency-tester/raw/refs/heads/main/latency.sh)
+```
+
 # 网络PING/DNS（PD检测）检测工具
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
